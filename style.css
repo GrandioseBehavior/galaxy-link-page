@@ -29,9 +29,7 @@ body{height:100%;width:100%;
     background-color:rgba(100, 1, 131, .15);
     backdrop-filter: blur( 1.5px ) saturate(300%);  
     box-shadow: 0px 0px 50px rgb(70, 193, 254);
-    border-radius:200px;} 
-
-.links{padding-left:20px;padding-right:20px;padding-top:50px;padding-bottom:50px; margin-right:auto;margin-left:auto;text-align:center;}
+    border-radius:200px;text-align:center;}
 
 a {color: rgb(175, 0, 228);text-decoration:none;}
 
